@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import * as FiIcons from 'react-icons/fi'; 
 import { IconContext } from 'react-icons'; 
-import './IconPicker.css'; 
 
 const IconPicker = ({
   rowsInOnePage = 4,
